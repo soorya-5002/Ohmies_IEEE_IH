@@ -45,8 +45,8 @@ A wearable posture monitoring device built using **ESP32**, **MPU6050**, and a *
    - An **LED lights up** to visually notify the user.
 
 ---
-## How to Download 
-1. ** Clone the Repository**
+## 🧰How to Run this Project 
+1. **Clone the Repository**
 open **Terminal** or **Git Bash**, navigate to your desired folder and run:
 ```plaintext
 git clone https://github.com/soorya-5002/Ohmies_IEEE_IH.git
