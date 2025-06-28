@@ -53,7 +53,7 @@ BAD POSTURE
 ```
 ## Link to access Projects online 
 -[TinkerCad-Flex sensor](https://www.tinkercad.com/things/eKEjw6xYc0x-ieeeihflexsensor-/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits)
-![Flex_schematic](Videos/"C:/Users/HAI/Videos/IEEE_IH_flexsensor_pic.png")
+![Flex_schematic](Images/IEEE_IH_flexsensor_pic.png)
 -[Wokwi-Mpu](https://wokwi.com/projects/434751258011689985)
 
 ## 🧩 Prerequisites
