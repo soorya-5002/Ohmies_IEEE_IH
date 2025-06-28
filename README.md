@@ -45,16 +45,26 @@ A wearable posture monitoring device built using **ESP32**, **MPU6050**, and a *
    - An **LED lights up** to visually notify the user.
 
 ---
-## 🧰How to Run this Project 
-1. **Clone the Repository**
-open **Terminal** or **Git Bash**, navigate to your desired folder and run:
-```plaintext
-git clone https://github.com/soorya-5002/Ohmies_IEEE_IH.git
-cd Ohmies_IEEE_IH
-```
 ## 📟 Serial Output Example
 ```plaintext
 AnglePitch: 28.56
 Flex Sensor ADC: 712
 BAD POSTURE
 ```
+## 🧩 Prerequisites
+
+- [Git](https://git-scm.com/)  
+- [Arduino IDE](https://www.arduino.cc/en/software) with ESP32 board installed  
+- Required libraries:
+  - `MPU6050` by Electronic Cats or Jeff Rowberg
+  - `Wire`
+
+---
+
+## 📦 Setup
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/soorya-5002/Ohmies_IEEE_IH.git
+   cd Ohmies_IEEE_IH
