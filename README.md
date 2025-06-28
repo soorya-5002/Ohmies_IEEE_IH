@@ -54,10 +54,20 @@ BAD POSTURE
 ## 🧩 Prerequisites
 
 - [Git](https://git-scm.com/)  
-- [Arduino IDE](https://www.arduino.cc/en/software) with ESP32 board installed  
-- Required libraries:
-  - `MPU6050` by Electronic Cats or Jeff Rowberg
-  - `Wire`
+- [Arduino IDE](https://www.arduino.cc/en/software) with ESP32 board support installed
+
+### 📚 Libraries Used
+
+Ensure these libraries are installed in **Arduino IDE ➔ Library Manager**:
+
+- `Wire`  
+- `BLEDevice`  
+- `BLEServer`  
+- `BLEUtils`  
+- `BLE2902`  
+- `BLE2901`
+
+*(For BLE libraries, install the **ESP32 BLE Arduino** package by **Neil Kolban** or under **ESP32 BLE Arduino by Espressif Systems**, which includes BLEDevice, BLEServer, BLEUtils, BLE2902, BLE2901)*
 
 ---
 
