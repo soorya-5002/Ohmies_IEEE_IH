@@ -52,7 +52,8 @@ Flex Sensor ADC: 712
 BAD POSTURE
 ```
 ## Link to access Projects online 
--[TinkerCad-Flex sensor] (https://www.tinkercad.com/things/eKEjw6xYc0x-ieeeihflexsensor-/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits)
+-[TinkerCad-Flex sensor](https://www.tinkercad.com/things/eKEjw6xYc0x-ieeeihflexsensor-/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits)
+
 -[Wokwi-Mpu](https://wokwi.com/projects/434751258011689985)
 
 ## 🧩 Prerequisites
