@@ -5,7 +5,7 @@ This project is developed as part of the **IEEE Internal Hackathon** to address 
 
 ---
 ## Teammates 
-1) Sooryakanth Ramakrishnan -23BEE0083
+1)Sooryakanth Ramakrishnan -23BEE0083
 
 2)Antara Tushar Prabhune -24BEE0109
 
