@@ -54,6 +54,11 @@ AnglePitch: 28.56
 Flex Sensor ADC: 712
 BAD POSTURE
 ```
+## Prerequisites
+
+-[Git](https://git-scm.com/)
+-[Arduino](https://www.arduino.cc/en/software/)
+
 ## ⚙️ **Setup Instructions**
 
 1. **Clone the repository**
@@ -68,9 +73,5 @@ cd Ohmies_IEEE_IH
 -[Wokwi_MPU](https://wokwi.com/projects/434751258011689985)
 ![MPU_schematic](images/IEEE_IH_MPU_pic.png)
 
-## Prerequisites
-
--[Git](https://git-scm.com/)
--[Arduino](https://www.arduino.cc/en/software/)
 
 
